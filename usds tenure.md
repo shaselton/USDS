@@ -20,10 +20,11 @@ Lots of the stuff is pretty specific to government functions and I'm not too sur
 	* created Node API Client
 	* created frontend
 	* code reviewed Python ETLs
-* Provided resume reviews for USDS
 * Participated in writing statement of objects (SOO).  Multiple times.
 * Sprint team member for FISS
 * Sprint lead for CPI (fraud systems)
 * developed pitch deck for higher-level strategy vision.
 
 ## HQ
+* Lead breakout session for a staff meeting
+* Provided resume reviews for USDS
