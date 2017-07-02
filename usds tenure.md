@@ -7,6 +7,7 @@ Lots of the stuff is pretty specific to government functions and I'm not too sur
 * Managed rewrite for qpp.cms.gov.
 * Security Control Assessment (sca) for qpp.cms.gov -> documentation of mitigation plans.
 * defined deployment plan for qpp.cms.gov
+* started qpp.cms.gov style guide
 * started deployment distrubtion list (email after every deployment)
 * actually allowed for multiple deployments throughout the week
 * Voting Technical Evaluation Participant (tep) member -- 3 different awards.
