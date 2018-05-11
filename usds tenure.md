@@ -26,6 +26,7 @@ Lots of the stuff is pretty specific to government functions and I'm not too sur
 * Sole author of a design exercise for a SOO (Beneficiary API)
 * Sprint team member for FISS (1-day)
 * Sprint lead for CPI (fraud systems)
+* Sprint team member for Data Liberation
 * Sprint lead for FISS
 * Wrote API-first language to be included in all development contracts via OAGM.
 * Team lead for FISS project
