@@ -10,7 +10,7 @@ Lots of the stuff is pretty specific to government functions and I'm not too sur
 * started qpp.cms.gov style guide
 * started deployment distrubtion list (email after every deployment)
 * actually allowed for multiple deployments throughout the week
-* Voting Technical Evaluation Participant (tep) member -- 5 different awards.
+* Voting Technical Evaluation Participant (TEP) member -- 5 different awards.
 * Subject matter expert (sme) for TEP. - 1 award.
 * Rogue One member
 	* Created user stories, tickets, groomed backlog, set scope
@@ -22,8 +22,8 @@ Lots of the stuff is pretty specific to government functions and I'm not too sur
 	* created frontend
 	* code reviewed Python ETLs
 * Participated in writing statement of objects (SOO).  Multiple times.
-* Sole author of a SOO (Beneficiary API)
-* Sole author of a design exercise for a SOO (Beneficiary API)
+* Author of a SOO (Beneficiary API)
+* Author of a design exercise for a SOO (Beneficiary API)
 * Sprint team member for FISS (1-day)
 * Sprint lead for CPI (fraud systems)
 * Sprint team member for Data Liberation
@@ -32,6 +32,7 @@ Lots of the stuff is pretty specific to government functions and I'm not too sur
 * Team lead for FISS project
 	* Aligned CMS stakeholders
 	* Written project proposal, set scope, built USDS team
+	* Acquired an initial 8MM in funding.
 * Developed pitch deck for higher-level strategic team vision.
 * Plan and ran meetings for different areas of development
 	* Shared Tooling (logging, http clients, scrubbing, etc)
