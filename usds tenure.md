@@ -33,6 +33,8 @@ Lots of the stuff is pretty specific to government functions and I'm not too sur
 	* Aligned CMS stakeholders
 	* Written project proposal, set scope, built USDS team
 	* Acquired an initial 8MM in funding.
+	* Started BPA
+	* 1-on-1s with team members
 * Developed pitch deck for higher-level strategic team vision.
 * Plan and ran meetings for different areas of development
 	* Shared Tooling (logging, http clients, scrubbing, etc)
@@ -50,4 +52,6 @@ Lots of the stuff is pretty specific to government functions and I'm not too sur
 
 ## HQ
 * Lead breakout session for a staff meeting about Medicare Fraud
+* Presentation at fancy staff meeting
+	* Lead breakout session at fancy staff for MPM
 * Provided resume reviews for USDS
