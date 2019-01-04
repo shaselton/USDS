@@ -65,3 +65,11 @@ Lots of the stuff is pretty specific to government functions and I'm not too sur
 * Main presentation for the Medicare Payment System Modernization project at staff.
 	* Created slide desk and 25 minute presentation.
 * Provided resume reviews for USDS
+
+## Resume Grouping
+### QPP
+* Core engineering team member that incentivized value-based care in America's healthcare system.
+### MPSM
+* Team lead in the modernization effort for the largest healthcare payer in the world. 
+### Generic
+* Strategize policy, design, and engineering solutions for both Medicare and Medicaid projects.
