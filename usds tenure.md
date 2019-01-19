@@ -65,6 +65,7 @@ Lots of the stuff is pretty specific to government functions and I'm not too sur
 * Main presentation for the Medicare Payment System Modernization project at staff.
 	* Created slide desk and 25 minute presentation.
 * Provided resume reviews for USDS
+* [Honored with USDS sticker](https://github.com/shaselton/USDS/blob/master/20190119_110134.jpg) :p
 
 ## Resume Grouping
 ### QPP
