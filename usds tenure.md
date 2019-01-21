@@ -154,8 +154,7 @@ QPP received several awards, including the FedHealthIT Innovation Award and an A
 **Impact**: Positioning systems to scale infinitely with the flexibility of how CMS can process claims and pay providers allows for technology to be a multiplier for policy rather than an inhibitor. These systems will have the ability to adopt value-based models to pay for care which will shift the whole healthcare landscape in the US. This system is the single most important system in the determination of how healthcare will be provided in the US.
 
 **Project Name**: USDS Headquarters  
-**Project Description**: 
-**My Role**: Digital Service Expert    
+**My Role**: Digital Service Expert  
 **Responsibilities** 
 * Resume reviews for future USDS members
 * Multiple presentations during the staff USDS meetings on the progress of projects
@@ -163,6 +162,6 @@ QPP received several awards, including the FedHealthIT Innovation Award and an A
 * Provided SRE and SWE oncall support during Healthcare.gov's 2018 Open Enrollment
 * Involved in four, lead two, 2-4 week 'sprints' that later turned into USDS projects
 
-**Impact**: Emboding USDS' values by directly particpating in: "Hire and empower great people", "Find the truth. Tell the truth", "Go where the work is", "Create momentum". USDS is the first federal agency whos mission is truly focused on transforming critical service through technology, rethinking how the government buys digital services, expanding the use of common platforms, services, and tools, and bringing top technical talent into public service.
+**Impact**: Embodying USDS' values by directly participating in: "Hire and empower great people", "Find the truth. Tell the truth", "Optimize for results, not optics", Go where the work is", and "Create momentum". USDS is the first federal agency whose mission is truly focused on transforming critical service through technology, rethinking how the government buys digital services, expanding the use of common platforms, services, and tools, and bringing top technical talent into public service.
 
 USDS has had major impact at different agencies such as the Departments of Homeland Security, Veterans Affairs, Defense, Education, Health and Human Services, and the Small Business Administration. What starts initially as individual contribution on technology projects for these different agencies often turns into a larger change management approach when it comes to delivering digital services
