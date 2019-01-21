@@ -82,11 +82,11 @@ Lots of the stuff is pretty specific to government functions and I'm not too sur
 ### Generic
 * Strategize policy, design, and engineering solutions for both Medicare and Medicaid projects.
 
-*Project Name*
-*Project Description* (as short as possible)
-*My Role* (a simple title)
-*Responsibilities* (this could include your bullets like “Plan and ran meetings for different areas of development”)
-*Impact* (project level metrics)
+*Project Name*  
+*Project Description* (as short as possible)  
+*My Role* (a simple title)  
+*Responsibilities* (this could include your bullets like “Plan and ran meetings for different areas of development”)  
+*Impact* (project level metrics)  
 
 **Project Name**: The Quality Payment Program
 **Project Description**: This program is the largest payment reform effort in Medicare’s history. The program was to begin the shift from a fee-for-service model to value-based care.
