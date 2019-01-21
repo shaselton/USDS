@@ -88,9 +88,9 @@ Lots of the stuff is pretty specific to government functions and I'm not too sur
 *Responsibilities* (this could include your bullets like “Plan and ran meetings for different areas of development”)  
 *Impact* (project level metrics)  
 
-**Project Name**: The Quality Payment Program
-**Project Description**: This program is the largest payment reform effort in Medicare’s history. The program was to begin the shift from a fee-for-service model to value-based care.
-**My Role**: Technical Lead
+**Project Name**: The Quality Payment Program  
+**Project Description**: This program is the largest payment reform effort in Medicare’s history. The program was to begin the shift from a fee-for-service model to value-based care.  
+**My Role**: Technical Lead  
 **Responsibilities**:
 * **Technical leadership** in multiple areas including:
 	* Managed rewrite for qpp.cms.gov.
@@ -129,9 +129,9 @@ Despite fears that QPP would become “the next healthcare.gov,” our incredibl
 
 QPP received several awards, including the FedHealthIT Innovation Award and an API World Award. Our team also received the Execution of Major Projects Award at CMS
 
-**Project Name**: Medicare Payment System Modernization
-**Project Description**:  Positioning Medicare’s payment systems (that currently process over $500B in claims, roughly 3.5% of GDP) to allow for rapid adoption of new technologies and value-based payment models. Updating 30-50 year old systems to run in modern architectures that allow for large scalability, agile software development, and the contracting vehicle that allows for rapid procurement.
-**My Role**: Project Lead
+**Project Name**: Medicare Payment System Modernization  
+**Project Description**:  Positioning Medicare’s payment systems (that currently process over $500B in claims, roughly 3.5% of GDP) to allow for rapid adoption of new technologies and value-based payment models. Updating 30-50 year old systems to run in modern architectures that allow for large scalability, agile software development, and the contracting vehicle that allows for rapid procurement.  
+**My Role**: Project Lead  
 **Responsibilities**:
 * **Project Leadership**
 	* Wrote project proposal, set scope, built USDS team.
